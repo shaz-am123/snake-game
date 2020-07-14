@@ -6,4 +6,4 @@
 -->The rest of the rules are similar to the classic game.
 -->Use the arrows keys to control the snake
 
-link to play the game: 
+link to play the game: https://shaz-am123.github.io/snake-game/
