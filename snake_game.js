@@ -119,6 +119,7 @@ function gameloop()
     if(gameover==true)
     {
         alert("Game Over, Final Score "+score+"\nClick Ok to restart");
+        window.close()
         window.open("https://shaz-am123.github.io/snake-game/","_parent");
         clearInterval(f);
     }
