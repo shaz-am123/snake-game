@@ -120,7 +120,7 @@ function gameloop()
     {
         alert("Game Over, Final Score "+score+"\nClick Ok to restart");
         window.close();
-        window.open("index.html");
+        window.open("https://shaz-am123.github.io/snake-game/");
         clearInterval(f);
     }
     else{
